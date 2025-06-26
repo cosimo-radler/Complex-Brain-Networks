@@ -1,4 +1,9 @@
-# Complexity in Brain Networks
+# Complexity in Brain Networks - A Mathematical Investigation of Consciousness
+
+**Authors:** Cosimo Radler, Jorge Gonzalez Larragoiti, Hsiag-Yang Lee 
+**Date:** 27.06.2025
+
+This Tutorial was designed for the course Complexity Lab, and is the final project. 
 
 A comprehensive tutorial for analyzing **information processing patterns** in brain networks using **Higher-Order Interactions (HOI)** and **Partial Information Decomposition (PID)**.
 
