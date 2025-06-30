@@ -54,14 +54,6 @@ The analysis generates a comprehensive 12-panel visualization showing:
 - Statistical distributions and correlations
 - Top-performing brain regions for information processing
 
-## Applications
-
-This framework extends beyond neuroscience to:
-- **Social Networks** - Information flow analysis
-- **Economic Systems** - Market emergence patterns  
-- **Ecological Networks** - Species interaction complexity
-- **Organizational Systems** - Communication and coordination patterns
-
 ## Technical Details
 
 - **Data:** AAL92 atlas fMRI time series
